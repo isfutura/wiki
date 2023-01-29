@@ -85,7 +85,9 @@ h6 {
 /* addons */
 
 img {
-  width: 33vw;
+  max-width: 33vw;
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
 
 .toplink {

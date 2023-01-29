@@ -1,2 +1,1 @@
-# wiki
-personal wiki
+[wiki.finn.limo](https://wiki.finn.limo)
